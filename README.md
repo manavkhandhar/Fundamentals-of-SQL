@@ -16,6 +16,19 @@
 - Monitored industry news and trends, delivering insights that enhanced client strategic decisions helping in sales and client retention strategies.
 - Regularly reported outcomes and insights to stakeholders, influencing future data-driven decision-making and strategic direction.
 
+**Summer Student - Workplace Safety and Insurance Board (WSIB)**
+- Carried out comprehensive analysis of Health and Safety Index qualitative data, unearthing 3 significant trends that directly informed strategic decision-making, resulting in more targeted interventions.
+- Collaborated with cross-functional teams, attended meetings, and provided valuable insights on leveraging data products to meet their specific needs.
+- Maintained robust data quality by conducting comprehensive assessments, proactively identifying issues and inconsistencies with data cleansing strategies that reduced survey data discrepancies by 40% and ensured high-quality data for analysis.
+- Skillfully translated complex process workflows into clear and concise PowerPoint presentations, facilitating a smoother transition during change management initiatives for various stakeholders.
+
+**Data Analyst - Data Rally (Freelance)**
+- Leveraged SQL queries to streamline data extraction, aggregation, and transformation processes, resulting in a 25% reduction in time spent on data analysis and report generation for diverse clients.
+- Orchestrated a substantial 200% increase in sales for a client through strategic A/B Testing utilizing data from Amazon and Facebook Ads platforms, effectively optimizing marketing strategies and driving revenue growth.
+- Crafted comprehensive reports and data visualizations using Tableau that succinctly communicated data-driven insights and recommendations to stakeholders, expediting decision-making and real-time KPI tracking by 50%
+- Demonstrated exceptional project management skills by maintaining a 100% on-time delivery rate for all projects, proactively identifying and resolving obstacles to ensure seamless project progress.
+- Addressed ad hoc requests and escalations, responsively supporting stakeholder needs.
+
 
 
 
