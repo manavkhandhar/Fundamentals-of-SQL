@@ -2,7 +2,9 @@
 
 ### Technical Skills
 **Tools:** MSSQL, Jupyter Notebook, BigQuery, Visual Studio Code, Tableau, Looker Studio, and PowerBI
+
 **Skills:** ETL (Extract, Transform, Load) Processes, Database Querying, Data Manipulation, Data Analysis, Reporting, Data Visualization, Statistical Analysis, Business Intelligence, Project Management.
+
 **Languages:** SQL, Python, Google Query Language
 
 ## Work Experience
