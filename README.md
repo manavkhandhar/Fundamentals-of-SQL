@@ -1,4 +1,4 @@
-# Resume
+# My Portfolio 👇
 
 ### Technical Skills
 **Tools:** MSSQL, Jupyter Notebook, BigQuery, Visual Studio Code, Tableau, Looker Studio, and PowerBI
