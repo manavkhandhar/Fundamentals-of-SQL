@@ -9,7 +9,12 @@
 
 ## Work Experience
 **Data Associate - Citylitics**
-- 
+- Led and executed comprehensive data collection and reporting tasks, independently contributing to our data roadmap and enhancing the accuracy of 15+ stakeholder monthly reports.
+- Conducted exploratory data analysis of 1500+ capital investment plans and financial budgets to create actionable insights proactively by confirming timely data through validated sources.
+- Implemented data validation processes to ensure the accuracy and reliability of collected data, enhancing the overall quality of insights.
+- Led ad-hoc and new data exploration projects to fulfill additional data needs from key enterprise accounts, leading to add-on signups and increasing subscription fees, impacting gross revenues.
+- Monitored industry news and trends, delivering insights that enhanced client strategic decisions helping in sales and client retention strategies.
+- Regularly reported outcomes and insights to stakeholders, influencing future data-driven decision-making and strategic direction.
 
 
 
