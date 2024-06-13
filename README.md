@@ -29,8 +29,3 @@
 - Demonstrated exceptional project management skills by maintaining a 100% on-time delivery rate for all projects, proactively identifying and resolving obstacles to ensure seamless project progress.
 - Addressed ad hoc requests and escalations, responsively supporting stakeholder needs.
 
-
-
-
-
-Welcome to the SQL Projects repository! This collection showcases a series of SQL projects aimed at honing my skills in database querying, manipulation, and management. Each project comes with a detailed README.md file outlining the project's objective, dataset description, and the SQL queries used to solve the tasks.
