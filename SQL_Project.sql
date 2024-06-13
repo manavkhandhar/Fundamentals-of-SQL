@@ -1,3 +1,8 @@
+/* Demonstrating SQL proficiency from fundamental to advanced levels, 
+including table creation, data insertion, aggregate functions, joins, 
+case statements, aliasing, partition bys, CTEs, stored procedures, 
+temporary tables, string functions, and data cleaning techniques. */
+
 
 -- creating table for our database to analyze the data using SQL queries
 
